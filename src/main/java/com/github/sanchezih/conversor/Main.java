@@ -1,4 +1,4 @@
-package com.github.sanchezih.finalkeyword;
+package com.github.sanchezih.conversor;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
